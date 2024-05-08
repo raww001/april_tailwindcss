@@ -1,0 +1,19 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "description": "introduction to tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "raww":"tailwind -i ./input.css -o ./april/might.css --watch"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Nuga",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
